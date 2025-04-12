@@ -3,8 +3,8 @@
 1. We build, understand and improve reasonable systems.
 2. Reasonable systems are systems that can be reasoned about.
 3. Reasonable systems require simple and accurate specification.
-4. Reasonable systems are implemented with languages and tools that have reasonable specifications.
-5. Reasonable systems require transparent implementation.
+4. Reasonable systems require transparent implementation.
+5. Reasonable systems are implemented with languages and tools that have reasonable specifications.
 6. Reasoning tools have enabled us to engineer reasonable systems that are practically useful.
 7. Reasoning tools do not substitute our understanding and communication.
 
