@@ -10,7 +10,7 @@
 - Smaller specification tends to be simpler and easier to test for accuracy.
 
 ###  Implementation
-- Reasonable systems are implemented with languages and tools that are reasonable.
+- Reasonable systems are implemented with languages and tools that are reasonable,
   * for reasoning about why and how the implementation satisfies the specification.
 - Reasonable systems require transparent implementation.
   * Trust on the implementor doesn't substitute reasoning about the implementation.
