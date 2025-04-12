@@ -4,13 +4,13 @@
   * Reasonable systems are systems that can be reasoned about.
   * We build, understand and improve reasonable systems.
 
-### Specification
+### Reasonable Specification
 - Reasonable systems require simple and accurate specification,
   * for reasoning about what the system is supposed to do.
 - Smaller specification tends to be simpler and easier to test for accuracy.
 
-###  Implementation
-- Reasonable systems are implemented with languages and tools that are reasonable,
+### Reasonable Implementation
+- Reasonable systems are implemented with languages and tools with reasonable specifications,
   * for reasoning about why and how the implementation satisfies the specification.
 - Reasonable systems require transparent implementation.
   * Trust on the implementor doesn't substitute reasoning about the implementation.
