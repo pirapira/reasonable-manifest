@@ -1,4 +1,4 @@
-# Reasonable Manifesto
+# Reasonable Engineering Manifesto
 
 - We work on reasonable systems.
   * Reasonable systems are systems that can be reasoned about.
