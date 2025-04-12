@@ -1,4 +1,4 @@
-# Reasonable Manifest
+# Reasonable Manifesto
 
 - We work on reasonable systems.
   * Reasonable systems are systems that can be reasoned about.
@@ -19,4 +19,4 @@
 - Tools (interactive theorem provers, SMT solvers etc) have enabled us to work on practical, reasonable systems
 - Tools do not substitute our understanding.
 
-[Reasonable Manifest](https://github.com/pirapira/reasonable-manifest) © 2025 by [Yoichi Hirai](https://yoichihirai.com) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+[Reasonable Manifesto](https://github.com/pirapira/reasonable-manifesto) © 2025 by [Yoichi Hirai](https://yoichihirai.com) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
