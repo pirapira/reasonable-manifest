@@ -15,8 +15,8 @@
 - Reasonable systems require transparent implementation.
   * Trust on the implementor doesn't substitute reasoning about the implementation.
 
-### Reasoning
-- Tools (interactive theorem provers, SMT solvers etc) enabled us to work on practical, reasonable systems
+### Reasoning Tools
+- Tools (interactive theorem provers, SMT solvers etc) have enabled us to work on practical, reasonable systems
 - Tools do no substitute our understanding.
 
 [Reasonable Manifest](https://github.com/pirapira/reasonable-manifest) © 2025 by [Yoichi Hirai](https://yoichihirai.com) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
