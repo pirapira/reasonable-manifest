@@ -17,6 +17,6 @@
 
 ### Reasoning Tools
 - Tools (interactive theorem provers, SMT solvers etc) have enabled us to work on practical, reasonable systems.
-- Tools do not substitute our understanding.
+- Tools do not substitute our understanding and communication.
 
 [Reasonable Manifesto](https://github.com/pirapira/reasonable-manifesto) © 2025 by [Yoichi Hirai](https://yoichihirai.com) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
