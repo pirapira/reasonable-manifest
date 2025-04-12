@@ -2,7 +2,7 @@
 
 - We work on reasonable systems.
   * Reasonable systems are systems that can be reasoned about.
-  * We build, understand and improve the reasonable systems.
+  * We build, understand and improve reasonable systems.
 
 ### Specification
 - Reasonable systems require simple and accurate specification,
