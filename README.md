@@ -28,7 +28,7 @@
 
 2.2. Reasoning tools do not replace my understanding.
 
-## 3. Part of maehematics is reasonable.
+## 3. Part of mathematics is reasonable.
 
 3.1. The standard of reasonable systems can be applied to mathematical theorems.
 
