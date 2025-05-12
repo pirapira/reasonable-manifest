@@ -28,12 +28,26 @@
 
 2.2. Reasoning tools do not replace my understanding.
 
-## 3. Criticism
+## 3. Part of maehematics is reasonable.
 
-3.1. Is this manifesto reasonable?
+3.1. The standard of reasonable systems can be applied to mathematical theorems.
 
-3.1.1. Is Markdown a reasonable format?
+3.1.1. The specification of a mathematical theorem is its statement.
 
-3.2. Should building be placed before understanding and improving?
+3.1.2. The implementation of a mathematical theorem is its proof.
+
+3.2. Mathematical theorems, whose statements I understand, are reasonable.
+
+3.3. Mathematical thorems, whose proofs I don't understand, can be reasonable.
+
+3.3.1. Therefore I don't behave like some mathematicians, who are only willing to work with theorems whose proofs they understand.
+
+## 4. Criticism
+
+4.1. Is this manifesto reasonable?
+
+4.1.1. Is Markdown a reasonable format?
+
+4.2. Should building be placed before understanding and improving?
 
 [Reasonable Engineering Manifesto](https://github.com/pirapira/reasonable-manifesto) © 2025 by [Yoichi Hirai](https://yoichihirai.com) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
