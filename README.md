@@ -1,6 +1,6 @@
 # Reasonable Engineering Manifesto
 
-1. I build, understand and improve reasonable systems.
+## 1. I build, understand and improve reasonable systems.
 
 1.1. Reasonable systems can be reasoned about.
 
@@ -12,7 +12,7 @@
 
 1.1.2.1. Reasonable systems are implemented with languages and tools that have reasonable specifications.
 
-2. Reasoning tools have enabled us to engineer reasonable systems that are practically useful.
+## 2. Reasoning tools have enabled us to engineer reasonable systems that are practically useful.
 
 2.1. Reasoning tools do not replace our understanding and communication.
 
