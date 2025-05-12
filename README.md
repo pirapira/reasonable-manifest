@@ -26,7 +26,7 @@
 
 2.1. Reasoning tools have enabled us to work on big implementations, as long as their behavior is defined for the reasoning tools.
 
-2.2. Reasoning tools do not replace our understanding.
+2.2. Reasoning tools do not replace my understanding.
 
 ## 3. Criticism
 
