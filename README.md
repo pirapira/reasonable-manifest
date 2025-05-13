@@ -20,7 +20,7 @@
 
 1.1.2.1. Reasonable systems are implemented with languages and tools that have reasonable specifications.
 
-1.1.3. The implementation of reasonable systems can be bigger than what fits in my mind.
+1.1.3. The implementation of reasonable systems can be too big to fit in my mind.
 
 1.1.3.1. Because the implementation
 
@@ -28,7 +28,7 @@
 
 1.1.3.1.2. does not belong in my mind either.
 
-1.1.3.2. When the implementation is bigger than what fits in my mind, some bookkeeping mechanism is needed to keep track of the gab between the implementation and the specification.
+1.1.3.2. When the implementation is too big to fit in my mind, some bookkeeping mechanism is needed to keep track of the gab between the implementation and the specification.
 
 1.2. For me to improve systems built by others, sometimes certain legal arrangements are needed.
 
