@@ -8,7 +8,13 @@
 
 1.1.1.1. If the specification of a system doesn't fit in my mind, the system is not reasonable for me.
 
-1.1.1.1.1. Therefore, I do not use the word we in this manifesto. I don't know how to tell whether a specification fits in our minds. I might be able to tell whether a specification fits in my mind.
+1.1.1.1.1. Because the specification is an approximation of my wants in my mind.
+
+1.1.1.1.2. Since a specification approximates my wants in my mind, it can be made to fit in my mind.
+
+1.1.1.2. The standard for a reasonable specification is personal.
+
+1.1.1.2.1. Therefore, I do not use the word we in this manifesto. I don't know how to tell whether a specification fits in our minds. I might be able to tell whether a specification fits in my mind.
 
 1.1.2. Reasonable systems require transparent implementation.
 
@@ -16,7 +22,13 @@
 
 1.1.3. The implementation of reasonable systems can be bigger than what fits in my mind.
 
-1.1.3.1. When the implementation is bigger than what fits in my mind, some bookkeeping mechanism is needed to keep track of the gab between the implementation and the specification.
+1.1.3.1. Because the implementation
+
+1.1.3.1.1. is not an approximation, and
+
+1.1.3.1.2. does not belong in my mind either.
+
+1.1.3.2. When the implementation is bigger than what fits in my mind, some bookkeeping mechanism is needed to keep track of the gab between the implementation and the specification.
 
 1.2. For me to improve systems built by others, sometimes certain legal arrangements are needed.
 
