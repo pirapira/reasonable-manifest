@@ -50,7 +50,7 @@
 
 3.2. Mathematical theorems, whose statements I understand, are reasonable.
 
-3.3. Mathematical thorems, whose proofs I don't understand, can be reasonable.
+3.3. Mathematical theorems, whose proofs I don't understand, can be reasonable.
 
 3.3.1. Therefore I don't behave like some mathematicians, who are only willing to work with theorems whose proofs they understand.
 
